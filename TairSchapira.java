@@ -1,7 +1,7 @@
 public class TairSchapira{
 	public static void main(String[] args){
 		for(int i=1; i<=10; i++){
-			System.out.println("Tair Schapira");
+			System.out.println("New output! Tair Schapira.");
 		}
 	}
 }
